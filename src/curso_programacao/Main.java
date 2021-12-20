@@ -9,7 +9,7 @@ public class Main {
 		x = 2;
 		y = (double) 5 / x; // CASTING - - - CASTING - - - CASTING
 		
-	System.out.println("O valor de y é: " + y);
+	System.out.println("O valor de y e: " + y);
 		
 
 	}

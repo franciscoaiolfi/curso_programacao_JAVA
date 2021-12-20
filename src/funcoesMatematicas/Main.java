@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("Digite valor 2: ");
 		int valor2 = sc.nextInt();
 		int soma = (valor1 + valor1);
-		System.out.println("O valor total é de: " + soma);
+		System.out.println("Valor total: " + soma);
 		
 		
 		sc.close();
