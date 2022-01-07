@@ -30,15 +30,6 @@ public class Main {
 		}
 		
 
-		
-		
-		
-		
-		
-		
-		
-		
-		
 enterDay.close();
 	}
 
